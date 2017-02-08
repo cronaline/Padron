@@ -1,3 +1,4 @@
+--OBSOLETO
 CREATE OR REPLACE FUNCTION func_correos(id integer, ref refcursor)
 RETURNS refcursor AS $$
  BEGIN

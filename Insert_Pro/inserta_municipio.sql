@@ -14,3 +14,6 @@ BEGIN
 END;
 $$
 LANGUAGE plpgsql;
+
+--SELECT INSERTA_MUNICIPIO(1, 'Coyoacán');
+--SELECT INSERTA_MUNICIPIO(2, 'Zapopan');

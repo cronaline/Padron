@@ -14,3 +14,5 @@ BEGIN
 END;
 $$
 LANGUAGE plpgsql;
+
+--SELECT INSERTA_ESTADO('Ciudad de México', 'CDMX');
